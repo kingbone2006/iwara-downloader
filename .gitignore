@@ -1,0 +1,41 @@
+﻿# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# Python cache & bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Sensitive Config & User Data
+config.json
+history.db
+history.db-journal
+history.db-wal
+history.db-shm
+
+# Media downloads & Thumbnail cache
+downloads/
+cache/
+*.mp4
+*.mkv
+*.webm
+*.part
+*.ytdl
+
+# Logs
+*.log
+launch_log.txt
+
+# OS / IDE artifacts
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/

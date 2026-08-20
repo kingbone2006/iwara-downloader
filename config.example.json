@@ -1,0 +1,18 @@
+﻿{
+  "language": "vi",
+  "theme": "dark",
+  "download_dir": "./downloads",
+  "download_dirs": [],
+  "scan_limit": 32,
+  "download_batch": 3,
+  "download_delay_sec": 3.0,
+  "scan_delay_sec": 1.5,
+  "stall_timeout_sec": 90.0,
+  "demo_mode": false,
+  "email": "",
+  "password": "",
+  "ui_backend": "flet",
+  "ui_gpu": "auto",
+  "ui_gpu_adapter": "",
+  "list_page_size": 60
+}
