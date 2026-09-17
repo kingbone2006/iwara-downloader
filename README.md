@@ -7,7 +7,7 @@
 ## Tiếng Việt
 
 ### 📖 Giới thiệu
-
+~~ Tool làm đem bán, chán rồi đem share
 **Iwara Downloader** là một ứng dụng máy tính mạnh mẽ, hiện đại và tiện lợi dùng để tìm kiếm, quản lý và tải video từ Iwara hàng loạt theo **kênh (tác giả)** hoặc **hashtag**. Ứng dụng hỗ trợ giao diện đồ họa (GUI) tăng tốc phần cứng bằng GPU thông qua Flet (Flutter engine) và có chế độ dự phòng bằng CustomTkinter.
 
 ---
